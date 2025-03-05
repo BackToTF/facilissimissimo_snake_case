@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+    font-family: Arial, sans-serif; /* errore: typo */
+}
+
+.container {
+    width: 80%; /* errore: typo */
+    margin: auto;
+}
